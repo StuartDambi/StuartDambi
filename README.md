@@ -6,13 +6,13 @@ Welcome to my GitHub profile! I'm a passionate and experienced Full Stack Softwa
 
 ### Skills
 
-- **Languages:** JavaScript (Node.js, React.js), HTML, CSS, Python
+- **Languages:** JavaScript (Node.js, React.js, React Native, Nextjs), HTML, CSS, Python
 - **Database:** MongoDB, MySQL, PostgreSQL
 - **Frameworks:** Express.js, Django
 - **Version Control:** Git, GitHub
 - **Tools:** Docker, Webpack
 - **Testing:** Jest, Mocha, Chai
-- **Cloud Platforms:** AWS, Heroku, GCP
+- **Cloud Platforms:** AWS, Digital Ocean, GCP
 
 
 ### Contact
