@@ -1,16 +1,32 @@
-### Hi there 👋
+# Dambi Stuart
 
-<!--
-**StuartDambi/StuartDambi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack Software Engineer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a passionate and experienced Full Stack Software Engineer with expertise in building scalable and efficient web applications. I enjoy working on both the front-end and back-end, and I thrive in collaborative team environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+
+- **Languages:** JavaScript (Node.js, React.js), HTML, CSS, Python
+- **Database:** MongoDB, MySQL, PostgreSQL
+- **Frameworks:** Express.js, Django
+- **Version Control:** Git, GitHub
+- **Tools:** Docker, Webpack
+- **Testing:** Jest, Mocha, Chai
+- **Cloud Platforms:** AWS, Heroku, GCP
+
+
+### Contact
+
+- [LinkedIn](https://www.linkedin.com/in/stuartdambi/)
+- Email: stuartdambi@gmail.com
+- [Portfolio](link-to-portfolio)
+
+### Open to Collaboration
+
+I am open to collaboration and always interested in exciting projects. If you have a project idea or just want to connect, feel free to reach out!
+
+### Let's Connect
+
+If you're interested in my work or have any questions, don't hesitate to reach out. I'm always looking forward to connecting with fellow developers and tech enthusiasts.
+
+Happy coding!
