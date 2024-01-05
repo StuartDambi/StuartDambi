@@ -2,7 +2,7 @@
 
 ## Full Stack Software Engineer
 
-Welcome to my GitHub profile! I'm a passionate and experienced Full Stack Software Engineer with expertise in building scalable and efficient web applications. I enjoy working on both the front-end and back-end, and I thrive in collaborative team environments.
+I'm Dambi, a seasoned Full-Stack Engineer with over 4 years in software development. My expertise lies in JavaScript, Python, React.js, and Node.js, complemented by strong data science skills. Proficient in crafting dynamic, responsive, and scalable web and mobile applications, I prioritize both functionality and aesthetic appeal. Let's collaborate to bring your software visions to life through my blend of engineering and data science prowess
 
 ### Skills
 
